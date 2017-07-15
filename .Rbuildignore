@@ -1,0 +1,8 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^CONDUCT\.md$
+^cran-comments\.md$
+^data-raw$
+^README\.Rmd$
+^README-.*\.png$
+^D:\Documents\Source\git\sprawl\.data\docs$

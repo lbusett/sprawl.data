@@ -1,0 +1,15 @@
+Package: sprawl.data
+Title: Example Datasets for the `sprawl` package
+Version: 0.0.0.9000
+Authors@R: person("Lorenzo", "Busetto", email = "lbusett@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.1)
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/lbusett/sprawl.data
+BugReports: https://github.com/lbusett/sprawl.data/issues
+Suggests: testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
